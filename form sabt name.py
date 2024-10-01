@@ -190,3 +190,5 @@ tbl.place(x=80, y=220)
 
 
 Screen.mainloop()
+
+
