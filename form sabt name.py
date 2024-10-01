@@ -190,7 +190,3 @@ tbl.place(x=80, y=220)
 
 
 Screen.mainloop()
-
-
-sum = lambda a,b: a+b
-print(sum(a=3, b=4))
