@@ -188,5 +188,4 @@ tbl.heading("#1", text="شماره تماس")
 tbl.bind("<Button-1>", GetSelection)
 tbl.place(x=80, y=220)
 
-
 Screen.mainloop()
